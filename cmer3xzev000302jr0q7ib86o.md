@@ -5,6 +5,7 @@ seoDescription: "cannot find the list of packages installed in dotnet by running
 datePublished: Mon Aug 25 2025 12:42:53 GMT+0000 (Coordinated Universal Time)
 cuid: cmer3xzev000302jr0q7ib86o
 slug: dotnet-error-unable-to-read-a-package-reference-from-the-project
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/heNwUmEtZzo/upload/26626f5ebafb32daa7bfbf4c72e83b01.jpeg
 tags: dotnetcore, web-api, dot-net-development, dotnet-cli, dotnet-error
 
 ---
